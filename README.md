@@ -1,1 +1,3 @@
-# -22
+aiogram==3.0.0b7
+aiosqlite
+apscheduler
